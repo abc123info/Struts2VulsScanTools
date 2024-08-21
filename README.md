@@ -6,6 +6,9 @@
 
 [https://www.bilibili.com/video/BV1MCWWeNEi8/](https://www.bilibili.com/video/BV1MCWWeNEi8/)
 
+<a href="https://www.example.com" target="_blank">点击这里访问示例网站</a>
+
+
 大家好，我是ABC_123。在2016年时，很多Java开发的网站都是基于Struts2框架的，当时Struts2框架不断爆出各种漏洞，很多工具检测不准确，因而给安全人员、研发人员带来了很大麻烦。为了解决这个问题，ABC_123研发了这款工具，尽可能使这款工具简单容易上手，哪怕对Struts2漏洞完全不懂的新手，也能快速找到Struts2漏洞并进行修复。
 
 注：此前一直在内部流传从未公开，但在一两年前，其它公众号平台已经把工具提供下载了，考虑到工具现在的危害已经大大降低，而且很多朋友害怕公开的工具捆绑有后门，因此本人还是在github上公布原版的下载吧，大家可以作为一个漏洞研究的工具使用。
