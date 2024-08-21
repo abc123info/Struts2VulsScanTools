@@ -4,7 +4,7 @@
 
 **ABC_123也录制了关于Struts2全版本漏洞检测工具的系列使用教程，欢迎关注我的B站号（希水涵一讲堂）：**
 
-<a href="https://www.bilibili.com/video/BV1MCWWeNEi8/" target="_blank">https://www.bilibili.com/video/BV1MCWWeNEi8/</a>
+[https://www.bilibili.com/video/BV1MCWWeNEi8/](https://www.bilibili.com/video/BV1MCWWeNEi8/)
 
 大家好，我是ABC_123。在2016年时，很多Java开发的网站都是基于Struts2框架的，当时Struts2框架不断爆出各种漏洞，很多工具检测不准确，因而给安全人员、研发人员带来了很大麻烦。为了解决这个问题，ABC_123研发了这款工具，尽可能使这款工具简单容易上手，哪怕对Struts2漏洞完全不懂的新手，也能快速找到Struts2漏洞并进行修复。
 
